@@ -1,4 +1,3 @@
-print("This is Akash")
-print("+"*10)
-print("This is Akash")
-print("+"*10)
+name = input('What is your name? ')
+color = input('What is your favourite color? ')
+print(name + " likes " + color)
