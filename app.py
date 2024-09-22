@@ -1,3 +1,3 @@
-name = input('What is your name? ')
-color = input('What is your favourite color? ')
-print(name + " likes " + color)
+weight = input('Enter Weight in pounds: ')
+kilo = float(weight)/2.205
+print('Kilograms: ' , kilo)
